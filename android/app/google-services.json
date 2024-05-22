@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974882538050",
+    "project_id": "mytagcall-88278",
+    "storage_bucket": "mytagcall-88278.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974882538050:android:6fc7c62f771d196391a3db",
+        "android_client_info": {
+          "package_name": "com.mytag.call"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7_jI7tUJ_7vCmyvNDQPNsE_KxvWQnohY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
